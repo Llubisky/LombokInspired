@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ClassCompanion
 {
-    // Clase para combinar la compilación con las clases recolectadas
+    // Clase para combinar la compilación con las clases recolectadas.
     public class CompilationClasses
     {
         public Compilation Compilation { get; set; }
